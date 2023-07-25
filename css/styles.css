@@ -1,0 +1,152 @@
+.logoNavbar {
+    width: 50px;
+    height:auto;
+}
+
+.trabajamos {
+    background-color: #28a745;
+}
+ 
+
+
+.img-home-header {
+    background-image: url(../images/home-sm.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.home-card {
+    position: absolute;
+    right: 2%;
+    bottom: 5%;
+    width: 300px;
+    text-align: center;
+    background: transparent;
+    border:none;
+}
+
+
+.gc-texto-normal {
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 400;
+}
+.gc-texto-resaltado {
+    background-color: #3092fc;
+}
+
+
+footer {
+    background: #3c4146;
+    color:white;
+    padding: 40px;
+}
+.gc-footer-info ul{
+    list-style: none;
+}
+.gc-slogan {
+    background: white;
+}
+
+/*section quienes somos*/
+.gc-qs-img-home {
+    background-image: url(../images/actividades-sm.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.gc-qs-img-home-card {
+    position: absolute;
+    left: 2%;
+    top: 30%;
+    width: 60%;
+    text-align: center;
+    background: transparent;
+    border:none;
+    line-height: 30px;
+}
+
+
+/*seccion proyecto*/
+.gc-img-proyecto-header {
+    background-image: url(../images/proyecto-header-sm.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.gc-img-proyecto-card {
+    position: absolute;
+    left: 2%;
+    top: 30%;
+    width: 60%;
+    text-align: center;
+    background: transparent;
+    border:none;
+    line-height: 30px;
+}
+
+
+
+/*seccion actividades*/
+.gc-qs-img-home {
+    background-image: url(../images/actividades-sm.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.pages {
+    display: none;
+    padding-top: 75px;
+}
+
+.defaultPage {
+    display: block;
+}
+
+.carousel-item img {
+    
+    height: 400px;
+    margin: auto;
+   
+}
+
+.carru {
+    background-color: gainsboro;
+}
+
+.imgcard {
+    max-width: 90%;
+    text-align: center;
+}
+
+.tituloCard {
+    display: flex;
+    align-items: center;
+    background-color: #3092fc;
+    color: white;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.tituloForm {
+    font-weight: bold;
+}
+
+.pForm {
+    font-size: 1.4rem;
+    padding-bottom: 25px;
+    
+    
+}
